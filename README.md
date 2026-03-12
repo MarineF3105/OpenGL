@@ -1,4 +1,5 @@
 Good day! 
+
 To whom to view this file out of curiosity or stumbled into it or you want to see proof that i am indeed coding.
 This is one of my first Opengl project (many are on the way! belive that!)
 This project is me just testing how transformation and other attributes and functions that come along with opengl and work to perform what I want it to.
